@@ -20,6 +20,12 @@ This repository reflects my continuous growth in problem-solving, algorithms, an
 - Day of the Year
 
 ### **Week 2**
+- Replace MinMax
+- Count Letters
+- Missing number
+
+### **Week 3**
+
 
 ---
 
